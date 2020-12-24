@@ -11,6 +11,5 @@ class _SignInState extends State<SignIn> {
     return Scaffold(
       appBar : AppBar(title: Text('Sign In'),),
     );
-    
   }
 }
